@@ -866,7 +866,7 @@ section,
 }
 
 .hero h2 {
-  font-size: 48px;
+  font-size: 36px;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -925,7 +925,7 @@ section,
 
 @media (max-width: 640px) {
   .hero h2 {
-    font-size: 36px;
+    font-size: 24px;
   }
 
   .hero .btn-get-started,
